@@ -12,5 +12,5 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
-  server:
-    port: 9020
+server:
+  port: 9020
